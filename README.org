@@ -1,0 +1,10 @@
+* Hopper Puzzle Data
+
+Hopper has this intereting dataset that does not have any description on it.
+After playing around with it, it is atually coordinates. Considering hopper is a
+tech company that help its customers find the cheapest flights possible, I think
+these are the airports locations in the world.
+
+However, There are only far fewer datapoints that fall in China comparing with
+Europe and US, which makes me thinking that these datapoints actually represent
+Hopper's globlal network. 
